@@ -1,0 +1,61 @@
+---
+title: "Using R to write ISAR"
+author: "Ryan Elmore"
+format: 
+  revealjs:
+    logo: daniels.jpg
+    theme: blood
+    footer: "Ryan Elmore: Denver R Meetup April 17, 2025"
+---
+
+## About Me
+
+-   I am an Associate Professor at the University of Denver
+-   (Most of) my research is in sports analytics
+-   Move into sports wasn’t planned (as a career)
+-   I started this thing in 2010! (with Melissa Santos, Matt Parker, and Scott Sibbel)
+
+
+## What is ISAR
+
+-   Hey that's my book!
+-   Introduction to Sports Analytics using R
+
+![](cover.png){fig-align="center" width=65%}
+
+## History
+
+-   I started teaching a class on sports analytics in Spring 2018.
+-   I was contacted about writing a book^[Nonparametric Statistics] at around that same time.
+-   My colleague, Andrew Urbaczewski, and I starting talking about writing a sports analytics book in mid- to late-2020 and signed an agreement in 2021.
+-   It came out in 2024.^[Don't ask my hourly rate at this point.]
+
+## The Book
+
+Go to the website
+
+## R Package
+
+```{=html}
+<iframe width="1000" height="500" align="middle" src="https://datacolorado.com/r/isar/" title="ISAR R Package"></iframe>
+```
+
+## Code in Book
+
+```{=html}
+<iframe width="1100" height="500" src="https://datacolorado.com/r/isar-code/" title="Book Code"></iframe>
+```
+
+## Nice to Haves
+
+More Execution Options:
+
+-   Is there an option to compile Quarto and ignore non-code chunks? 
+-   Execute only Exercises or code marked with a flag
+-   Anything else? 
+
+## Acknowledgements
+
+-   Co-author, Andrew Urbaczewski
+-   University of Auckland's Department of Statistics
+-   Te Pātaka Kōrero O Te Hau Kapua, or the public library in Devonport, Auckland, New Zealand
